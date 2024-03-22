@@ -1,2 +1,3 @@
 Nombre = "Jose Luis"
 Vida = "Humilde pero digna"
+Estamina = "no tiene, jose luis se cansa fácil"
