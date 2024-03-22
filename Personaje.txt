@@ -1,4 +1,4 @@
-Nombre = "Jose Luis"
+Nombre = "Jose Luis Miguel de la Rosa"
 Vida = "Humilde pero digna"
 Estamina = "no tiene, jose luis se cansa fácil"
 Armadura: Poca, usa ropas truchas.
